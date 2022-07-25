@@ -4,14 +4,14 @@ with open("README.md", "r") as fhandle:
     long_description = fhandle.read() # Your README.md file will be used as the long description!
 
 setuptools.setup(
-    name="klldFN", # Put your username here!
+    name="klld-lobbybot", # Put your username here!
     version="1.0.0", # The version of your package!
-    author="klld", # Your name here!
-    author_email="shmohammed2244@gmail.com", # Your e-mail here!
+    author="klldFN-lobbybot", # Your name here!
+    author_email="shmohammed9944@gmail.com", # Your e-mail here!
     description="A small example package", # A short description here!
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject", # Link your package website here! (most commonly a GitHub repo)
+    url="https://replit.com/@KbbBot/klldFN-3#", # Link your package website here! (most commonly a GitHub repo)
     packages=setuptools.find_packages(), # A list of all packages for Python to distribute!
     classifiers=[
         "Programming Language :: Python :: 3",

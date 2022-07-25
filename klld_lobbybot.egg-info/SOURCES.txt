@@ -1,0 +1,5 @@
+README.md
+klld_lobbybot.egg-info/PKG-INFO
+klld_lobbybot.egg-info/SOURCES.txt
+klld_lobbybot.egg-info/dependency_links.txt
+klld_lobbybot.egg-info/top_level.txt
